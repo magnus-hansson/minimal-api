@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using minimalapi.Models
+using minimalapi.Models;
 namespace minimalapi.data
 {
     public class AppDbContext : DbContext
